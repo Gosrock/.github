@@ -1,0 +1,18 @@
+- name: "For: API"
+  description: "[이슈 대상] 외부 API"
+  color: 0052CC
+- name: "For: Deploy"
+  description: "[이슈대상] 배포에 관한 이슈"
+  color: 0052CC
+- name: "For: Markup/UX"
+  description: "[이슈 대상] HTML, CSS"
+  color: 0052CC
+- name: "For: Models/DB"
+  description: "[이슈 대상] models, DB"
+  color: 0052CC
+- name: "For: Script"
+  description: "[이슈 대상] Client-Side"
+  color: 0052CC
+- name: "For: Utils"
+  description: "[이슈 대상] API, 모델, 뷰를 제외한 백엔드 로직"
+  color: 0052CC
