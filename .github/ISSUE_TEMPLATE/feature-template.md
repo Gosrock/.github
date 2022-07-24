@@ -2,7 +2,7 @@
 name: feature template
 about: 기능 추가시에 적는 템플릿 입니다.
 title: "\U0001F680 [feature]"
-labels: 기능 추가
+labels: 'Type: Feature'
 assignees: ''
 
 ---

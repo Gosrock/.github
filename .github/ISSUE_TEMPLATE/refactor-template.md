@@ -2,7 +2,7 @@
 name: refactor template
 about: 리팩토링용 탬플릿 입니다.
 title: "\U0001F528[refactor]"
-labels: 수정
+labels: 'Type: Refactor'
 assignees: ''
 
 ---
