@@ -12,4 +12,5 @@ jobs:
             Gosrock/Ticket-Backend-22th
             Gosrock/Ticket-Deploy-22th
             Gosrock/Ticket-Admin-22th
+            Gosrock/.github
           token: ${{ secrets.PERSONAL_TOKEN }}
