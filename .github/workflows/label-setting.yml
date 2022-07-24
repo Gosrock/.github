@@ -1,7 +1,5 @@
 name: Sync labels
 on: workflow_dispatch
-    paths:
-      - path/to/manifest/labels.yml
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -10,8 +8,8 @@ jobs:
       - uses: micnncim/action-label-syncer@v1
         with:
           repository: |
-              Gosrock/Ticket-Front-22th
-              Gosrock/Ticket-Backend-22th
-              Gosrock/Ticket-Deploy-22th
-              Gosrock/Ticket-Admin-22th
+            Gosrock/Ticket-Front-22th
+            Gosrock/Ticket-Backend-22th
+            Gosrock/Ticket-Deploy-22th
+            Gosrock/Ticket-Admin-22th
           token: ${{ secrets.PERSONAL_TOKEN }}
