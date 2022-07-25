@@ -13,6 +13,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCBjYErlHCG0vfcdDmaeOIxQ)](https://www.youtube.com/channel/UCBjYErlHCG0vfcdDmaeOIxQ)
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gosrock_archive/)](https://www.instagram.com/gosrock_archive/)
 [![KakaoTalk](https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white&link=https://pf.kakao.com/_QxeZBT)](https://pf.kakao.com/_QxeZBT)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white&link=https://www.figma.com/file/J6HVLxWGuCFgAQUCdWBUsT/%EA%B3%A0%EC%8A%A4%EB%9D%BD-%ED%8B%B0%EC%BC%93%EC%98%88%EB%A7%A4?node-id=2026%3A6310)](https://www.figma.com/file/J6HVLxWGuCFgAQUCdWBUsT/%EA%B3%A0%EC%8A%A4%EB%9D%BD-%ED%8B%B0%EC%BC%93%EC%98%88%EB%A7%A4?node-id=2026%3A6310)
 <br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGosrock&count_bg=%23BF94E4&title_bg=%231D1B1B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
