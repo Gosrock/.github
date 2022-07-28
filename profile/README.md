@@ -2,11 +2,11 @@
 <br/>
 <br/>
 
-<div align="center">고스락은 홍익대학교 내 컴퓨터공학과 소속 학회로 1990 년도 부터 공연을 해온 역사 깊은 밴드부 입니다.<br/>
-컴퓨터공학이라는 전공을 살려 , 프로그래밍을 통해 공연예약 , 정산 , 홍보등 우리들과 가까운 문제들을 해결하고 있습니다.</div>
+<div align="center">고스락은 홍익대학교 내 컴퓨터공학과 소속 밴드 학회로, 1990년도에 시작해 올해 9월 제 22회 공연으로 이어진 역사 깊은 밴드 동아리입니다.<br/>
+컴퓨터공학이라는 전공을 살려, 프로그래밍을 통해 공연 예약, 정산, 홍보 등 우리들과 가까운 문제들을 해결하고 있습니다.</div>
+<br/>
+<br/>
 
-<br/>
-<br/>
 <div align="center">
 
 
@@ -14,18 +14,17 @@
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gosrock_archive/)](https://www.instagram.com/gosrock_archive/)
 [![KakaoTalk](https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white&link=https://pf.kakao.com/_QxeZBT)](https://pf.kakao.com/_QxeZBT)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white&link=https://www.figma.com/file/J6HVLxWGuCFgAQUCdWBUsT/%EA%B3%A0%EC%8A%A4%EB%9D%BD-%ED%8B%B0%EC%BC%93%EC%98%88%EB%A7%A4?node-id=2026%3A6310)](https://www.figma.com/file/J6HVLxWGuCFgAQUCdWBUsT/%EA%B3%A0%EC%8A%A4%EB%9D%BD-%ED%8B%B0%EC%BC%93%EC%98%88%EB%A7%A4?node-id=2026%3A6310)
-<br/>
+<br/><br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGosrock&count_bg=%23BF94E4&title_bg=%231D1B1B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
-
----
-
-## 2022 년 9월 티켓팅 예매 프로젝트 
+<br/><br/>
 
 
----
-## 2022 년 3월 티켓팅 예매 프로젝트
+## 2022 년 9월 티켓 예매 프로젝트 
+
+
+## 2022 년 3월 티켓 예매 프로젝트
 
 ### 주요 성과
 
@@ -34,9 +33,9 @@
  - 관리자 웹페이지 제공을 통한 입금 확인, 소모임 검색 기능 지원
  - QR 코드를 통한 빠른 입장 확인 , 입금 정산
  - storybook 을 활용한 npm 모듈제작, 디자인시스템 구축
-     
+   
 <details >
-  <summary  >관련 레포</summary>
+  <summary><b>관련 레포</b></summary>
     <div >
       <ul>
         <li><a href="https://github.com/Gosrock/Ticket-Backend-21th">백엔드</a></li>
@@ -51,17 +50,19 @@
         javascript , react , socket.io , antd , redux
       </ul>
     </div>
-  </details>
-<br/>
+</details>
+
 <details>
-<summary>🎟 2022 년 3월 티켓팅 예매 프로젝트 참여자 🎟</summary>
-<div/>
+<summary><b>🎟 2022년 3월 티켓 예매 프로젝트 참여자 🎟</b></summary>
+
 <div class="21th-developer">
   <details>
   <summary>📺 프론트 📺 </summary>
+    <br/>
+    <div class="21th-frontend-developer">
     <table>
       <tr align="center">
-        <td><B>기획 / 전체 팀장<B></td>
+        <td><B>기획 / 총괄<B></td>
         <td><B>기획 / 디자인 / 프론트 팀장<B></td>
         <td><B>프론트<B></td>
         <td><B>프론트<B></td>
@@ -81,7 +82,7 @@
             <a href="https://github.com/ImNM"><I>ImNM</I></a>
         </td>
         <td>
-            <img src="https://user-images.githubusercontent.com/55226431/154956197-9dd0f771-a499-4f51-a6b1-e0b11e7692a2.png" width="100">
+            <img src="https://github.com/9yujin.png?size=100" width="100">
             <br>
             <a href="https://github.com/9yujin"><I>9yujin</I></a>
         </td>
@@ -102,13 +103,17 @@
         </td>
       </tr>
     </table>
+    </div>
   </details>
+
   <details>
   <summary>💼 백엔드 💼 </summary>
+
+  <br/>
   <div class="21th-backend-developer">
     <table>
         <tr align="center">
-          <td><B>기획 , 총괄, 백엔드 팀장<B></td>
+          <td><B>기획 / 총괄 / 백엔드 팀장<B></td>
           <td><B>백엔드<B></td>
           <td><B>백엔드<B></td>
           <td><B>백엔드<B></td>
@@ -151,8 +156,11 @@
       </table>
      </div>
      </details>
+
   <details>
   <summary>💼 관리자 어드민 💼</summary>
+
+  <br/>
     <div class="21th-admin-developer">
       <table>
       <tr align="center">
@@ -185,6 +193,7 @@
     </table>                                     
     </div>
   </details>
+
 </details>
 
 
