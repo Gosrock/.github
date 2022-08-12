@@ -38,15 +38,15 @@
   <summary><b>관련 레포</b></summary>
     <div >
       <ul>
-        <li><a href="https://github.com/Gosrock/Ticket-Backend-21th">백엔드</a></li>
+        <li><a href="https://github.com/Gosrock/Ticket-Backend-21st">백엔드</a></li>
         javascript , express , mongoDB ,socket.io
-        <li><a href="https://github.com/Gosrock/Ticket-Front-21th">프론트</a></li>
+        <li><a href="https://github.com/Gosrock/Ticket-Front-21st">프론트</a></li>
         javascript , react , socket.io , redux 
-        <li><a href="https://github.com/Gosrock/Ticket-Deploy-21th">배포관련</a></li>
+        <li><a href="https://github.com/Gosrock/Ticket-Deploy-21st">배포관련</a></li>
         docker , github action , aws ec2 , aws loadbalancer , nginx
-        <li><a href="https://github.com/Gosrock/Ticket-Storybook-21th">스토리북</a></li>
+        <li><a href="https://github.com/Gosrock/Ticket-Storybook-21st">스토리북</a></li>
         javascript , react , storybook
-        <li><a href="https://github.com/Gosrock/Ticket-Admin-21th">어드민</a></li>
+        <li><a href="https://github.com/Gosrock/Ticket-Admin-21st">어드민</a></li>
         javascript , react , socket.io , antd , redux
       </ul>
     </div>
