@@ -177,9 +177,8 @@
             <br>
             <a href="https://github.com/AlmondBreez3"><I>AlmondBreez3</I></a>
         </td>
-    </tr>
-</table>
-                 
+       </tr>
+     </table>
     </div>
   </details>
 
