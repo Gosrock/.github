@@ -23,6 +23,168 @@
 
 ## 2022 년 9월 티켓 예매 프로젝트 
 
+<details >
+  <summary><b>관련 레포</b></summary>
+    <div >
+      <ul>
+        <li><a href="https://github.com/Gosrock/Ticket-Backend-22nd">백엔드</a></li>
+        typescript , nestjs , postgres , redis ,socket.io ,slack , naver sms
+        <li><a href="https://github.com/Gosrock/Ticket-Front-22nd">프론트</a></li>
+        typescript , react , recoil , react-query ,socket.io ,storybook ,styled-component
+        <li><a href="https://github.com/Gosrock/Ticket-Deploy-22nd">배포관련</a></li>
+        docker , github action , aws ec2 , aws loadbalancer , nginx
+        <li><a href="https://github.com/Gosrock/Ticket-Admin-22nd">어드민</a></li>
+        javascript , react , socket.io , antd , redux
+      </ul>
+    </div>
+</details>
+
+
+<details>
+<summary><b>🎟 2022년 9월 티켓 예매 프로젝트 참여자 🎟</b></summary>
+
+<div class="22nd-developer">
+  <details>
+  <summary>📺 프론트 📺 </summary>
+    <br/>
+    <div class="21th-frontend-developer">
+   <table>
+    <tr align="center">
+        <td><B>Leader • Front-end • UI/UX<B></td>
+        <td><B>Front-end<B></td>
+        <td><B>Front-end<B></td>
+        <td><B>Front-end<B></td>
+    </tr>
+    <tr align="center">
+        <td><B>한규진<B></td>
+        <td><B>정상훈<B></td>
+        <td><B>서예진<B></td>
+        <td><B>김주안<B></td>
+    </tr>
+    <tr align="center">
+        <td>
+            <img src="https://github.com/9yujin.png?size=100">
+            <br>
+            <a href="https://github.com/9yujin"><I>9yujin</I></a>
+        </td>
+        <td>
+            <img src="https://github.com/wjdtkdgns.png?size=100" width="100">
+            <br>
+            <a href="https://github.com/wjdtkdgns"><I>wjdtkdgns</I></a>
+        </td>
+        <td>
+            <img src="https://github.com/Jordizzin.png?size=100">
+            <br>
+            <a href="https://github.com/Jordizzin"><I>Jordizzin</I></a>
+        </td>
+        <td>
+            <img src="https://github.com/duan-3.png?size=100" width="100">
+            <br>
+            <a href="https://github.com/duan-3"><I>duan-3</I></a>
+        </td>
+    </tr>
+    </table>
+    </div>
+  </details>
+
+  <details>
+  <summary>💼 백엔드 💼 </summary>
+
+  <br/>
+  <div class="21th-backend-developer">
+   <table>
+    <tr align="center">
+        <td><B>Leader / Backend<B></td>
+        <td><B>Backend<B></td>
+        <td><B>Backend<B></td>
+        <td><B>Backend<B></td>
+        <td><B>Backend<B></td>
+    </tr>
+    <tr align="center">
+        <td><B>이찬진<B></td>
+        <td><B>김민준<B></td>
+        <td><B>노경민<B></td>
+        <td><B>김원진<B></td>
+        <td><B>채승희<B></td>
+    </tr>
+    <tr align="center">
+        <td>
+            <img src="https://github.com/ImNM.png?size=100">
+            <br>
+            <a href="https://github.com/ImNM"><I>ImNM</I></a>
+        </td>
+        <td>
+            <img src="https://github.com/sanbonai06.png?size=100">
+            <br>
+            <a href="https://github.com/sanbonai06"><I>sanbonai06</I></a>
+        </td>
+        <td>
+            <img src="https://github.com/gengminy.png?size=100">
+            <br>
+            <a href="https://github.com/gengminy"><I>gengminy</I></a>
+        </td>
+        <td>
+            <img src="https://github.com/kim-wonjin.png?size=100">
+            <br>
+            <a href="https://github.com/kim-wonjin"><I>kim-wonjin</I></a>
+        </td>
+        <td>
+            <img src="https://github.com/chaeshee0908.png?size=100">
+            <br>
+            <a href="https://github.com/chaeshee0908"><I>chaeshee0908</I></a>
+        </td>
+    </tr>
+      </table>
+     </div>
+     </details>
+
+  <details>
+  <summary>💼 관리자 어드민 💼</summary>
+
+  <br/>
+    <div class="21th-admin-developer">
+     <table>
+    <tr align="center">
+        <td><B>Leader<B></td>
+        <td><B>Admin<B></td>
+        <td><B>Admin<B></td>
+        <td><B>Admin<B></td>
+    </tr>
+    <tr align="center">
+        <td><B>이찬진<B></td>
+        <td><B>봉세환<B></td>
+        <td><B>강나연<B></td>
+        <td><B>이한비<B></td>
+    </tr>
+    <tr align="center">
+        <td>
+            <img src="https://github.com/ImNM.png?size=100">
+            <br>
+            <a href="https://github.com/ImNM"><I>ImNM</I></a>
+        </td>
+        <td>
+            <img src="https://github.com/bongsh0112.png?size=100" width="100">
+            <br>
+            <a href="https://github.com/bongsh0112"><I>bongsh0112</I></a>
+        </td>
+        <td>
+            <img src="https://github.com/kongnayeon.png?size=100">
+            <br>
+            <a href="https://github.com/kongnayeon"><I>kongnayeon</I></a>
+        </td>
+        <td>
+            <img src="https://github.com/AlmondBreez3.png?size=100" width="100">
+            <br>
+            <a href="https://github.com/AlmondBreez3"><I>AlmondBreez3</I></a>
+        </td>
+    </tr>
+</table>
+                 
+    </div>
+  </details>
+
+</details>
+
 
 ## 2022 년 3월 티켓 예매 프로젝트
 
