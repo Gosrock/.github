@@ -23,6 +23,12 @@
 
 ## 2022 년 9월 티켓 예매 프로젝트 
 
+### 주요 성과
+
+ - 380 명 예약 ( 티켓 판매 대금 70만원 )
+ - 기존 QR 확인용 어플을 웹으로 전환
+ - typescript 기반 nestjs , react 활용
+
 <details >
   <summary><b>관련 레포</b></summary>
     <div >
